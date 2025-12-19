@@ -1,0 +1,1 @@
+// Static recipe data
